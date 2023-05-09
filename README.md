@@ -1,1 +1,6 @@
-This is a Snake Game and it created with Java Languge. It works very amazing !!!
+# Snake-Game
+This is a Snake Game and it was created with Java Language.
+
+I used from ChatGpt for creating this game.
+
+It works very amazing !!!
